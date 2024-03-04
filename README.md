@@ -14,17 +14,17 @@ yarn add tea-compact-js
 
 ## Usage
 
-Import `tea-compact-js` into your project and use it to split an array into smaller arrays of a specified size:
+Import `tea-compact-js` into your project and use it:
 
 ```javascript
 const compact = require("tea-compact-js");
 
 // Example array
-const myArray = [1, 2, 3, 4, 5, 6];
+const myArray = [0, 1, false, 2, "", 3];
 
-// Split into compacts of 2
-const result = compact(myArray, 2);
+// Call function
+const result = compact([0, 1, false, 2, "", 3]);
 
+// Output: [1, 2, 3]
 console.log(result);
-// Output: [[1, 2], [3, 4], [5, 6]]
 ```

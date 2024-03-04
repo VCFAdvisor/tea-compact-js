@@ -1,7 +1,7 @@
 {
   "name": "tea-compact-js",
-  "version": "1.0.3",
-  "description": "A lightweight utility function, similar to lodash.chunk.",
+  "version": "1.0.4",
+  "description": "A lightweight utility function, similar to lodash.compact.",
   "main": "src/index.js",
   "directories": {
     "test": "tests"
