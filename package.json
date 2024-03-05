@@ -1,6 +1,6 @@
 {
   "name": "tea-compact-js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lightweight utility function, similar to lodash.compact.",
   "main": "src/index.js",
   "directories": {
