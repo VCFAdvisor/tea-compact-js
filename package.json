@@ -21,7 +21,8 @@
     "bitcoin",
     "web3"
   ],
-  "repository": "https://github.com/VCFAdvisor/tea-compact-js",
-  "author": "tea2win",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VCFAdvisor/tea-compact-js.git"
+  }
 }
